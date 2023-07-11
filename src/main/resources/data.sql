@@ -1,0 +1,5 @@
+Insert into student values(101,'Lasya')
+Insert into student values(102,'Ramya')
+Insert into student values(103,'Kousalya')
+Insert into student values(104,'Sindu')
+Insert into student values(105,'Jahnavi')
